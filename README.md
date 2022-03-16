@@ -9,6 +9,7 @@ I'm naftali, CS student.
 
 [![](https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram&link=https://t.me/naftali100)](https://t.me/naftali100)
 [![](https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&link=https://twitter.com/naftali100)](https://twitter.com/naftali100)
+[![](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=likedin&link=https://www.linkedin.com/in/naftali100/)](https://www.linkedin.com/in/naftali100/)
 
 ### My stats 📊
 
