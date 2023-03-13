@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm naftali, CS student.
+I'm naftali, Fullstack developer.
 
 - 🗺️ I'm living in Israel.
 - 🌱 I’m currently learning Vue/React/Fullstack.
