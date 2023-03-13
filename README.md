@@ -3,7 +3,7 @@
 I'm naftali, CS student.
 
 - 🗺️ I'm living in Israel.
-- 🌱 I’m currently learning SFML/computer graphics/C++.
+- 🌱 I’m currently learning Vue/React/Fullstack.
 
 ### Contact me ☎️
 
